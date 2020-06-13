@@ -1,10 +1,10 @@
 <!-- Negrito -->
-Estou aprendendo linguagem **Markdown** no Curso em Vídeo de Git e GitHub &nbsp;
-Estou aprendendo linguagem __Markdown__ no Curso em Vídeo de Git e GitHub
+Estou aprendendo linguagem **Markdown** no Curso em Vídeo de Git e GitHub  
+Estou aprendendo linguagem __Markdown__ no Curso em Vídeo de Git e GitHub  
 
 <!-- Italico -->
-Estou aprendendo linguagem *Markdown* no Curso em Vídeo de Git e GitHub
-Estou aprendendo linguagem _Markdown_ no Curso em Vídeo de Git e GitHub
+Estou aprendendo linguagem *Markdown* no Curso em Vídeo de Git e GitHub  
+Estou aprendendo linguagem _Markdown_ no Curso em Vídeo de Git e GitHub  
 
 <!-- Riscado -->
 Estou aprendendo linguagem ~~Markdown~~ no Curso em Vídeo de Git e GitHub
@@ -13,6 +13,9 @@ Estou aprendendo linguagem ~~Markdown~~ no Curso em Vídeo de Git e GitHub
 # Aula de Linguagem Markdown
 ## Aula de Linguagem Markdown
 ### Aula de Linguagem Markdown
+#### Aula de Linguagem Markdown
+#### Aula de Linguagem Markdown
+#### Aula de Linguagem Markdown
 
 <!-- Linhas -->
 ---
@@ -78,4 +81,4 @@ else:
 Olá, pequeno gafanhoto :vulcan_salute :hand :monkey
 
 # Sitações e marcar pessoas
-Como diria @gafanhotos eu estou com sono
+Como diria @cleitonporto eu estou com sono
