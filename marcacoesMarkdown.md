@@ -1,5 +1,5 @@
 <!-- Negrito -->
-Estou aprendendo linguagem **Markdown** no Curso em Vídeo de Git e GitHub
+Estou aprendendo linguagem **Markdown** no Curso em Vídeo de Git e GitHub &nbsp;
 Estou aprendendo linguagem __Markdown__ no Curso em Vídeo de Git e GitHub
 
 <!-- Italico -->
@@ -73,3 +73,9 @@ if num % 2 == 0:
 else:
     print(f'O valor {num} é ÍMPAR')
 ```
+
+# Inserindo emojis
+Olá, pequeno gafanhoto :vulcan_salute :hand :monkey
+
+# Sitações e marcar pessoas
+Como diria @gafanhotos eu estou com sono
