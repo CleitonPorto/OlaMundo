@@ -20,14 +20,16 @@ Estou aprendendo linguagem ~~Markdown~~ no Curso em Vídeo de Git e GitHub
 
 Podemos _*misturar*_ configurações
 
-Lista numerada:
+# Lista numerada:
+
 1. Teste
 1. Teste2
    1. Teste3 <!-- Sub-item (3 espaços) -->
 1. Teste4
 
 
-Lista demarcada:
+# Lista demarcada:
+
 * Teste
 * Teste
    * Teste
@@ -38,12 +40,36 @@ Lista demarcada:
    - Teste
 - Teste
 
-Lista de tarefas:
+# Lista de tarefas:
 
 - [x] Criar página principal <!-- Tarefas marcadas -->
 - [x] Criar a página da loja <!-- Tarefas marcadas -->
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
 
-Links
+# Links
+
 [Acesse meu GitHub](https://github.com/cleitonporto)
+
+# Tabela
+
+Num | Nome | Nota <!-- Títulos das colunas -->
+---|---|---
+1 | Cleiton | 8,5
+2 | José | 10,0
+3 | Maria | 9,0
+
+Terminou a tabela.
+
+# Comando <!-- A crase deixa o texto monoespaçado com fundo cinza -->
+Não entendo direito para que serve o comando `document.gtElementById()` da linguagem JavaScript
+
+# Trechos de código
+Olha meu programa em Python
+```
+num = int(input('Digite um valor:'))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+```
