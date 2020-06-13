@@ -44,3 +44,6 @@ Lista de tarefas:
 - [x] Criar a página da loja <!-- Tarefas marcadas -->
 - [ ] Finalizar a reunião com o cliente
 - [ ] Receber pagamento
+
+Links
+[Acesse meu GitHub](https://cleitonporto.guithub.io)
