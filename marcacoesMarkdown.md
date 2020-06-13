@@ -46,4 +46,4 @@ Lista de tarefas:
 - [ ] Receber pagamento
 
 Links
-[Acesse meu GitHub](https://cleitonporto.guithub.io)
+[Acesse meu GitHub](https://github.com/cleitonporto)
